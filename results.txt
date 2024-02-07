@@ -1,0 +1,53 @@
+
+Normal Calculators:
+ 1. Acceptable
+ 2. No clear button
+ 3. Two "=" buttons, one of which doesn't work
+ 4. No clear button
+ 5. Non functioning "=" button, an "AC" button that does the same thing as "C"
+ 6. Acceptable
+ 7. Non functioning "=" button
+ 8. Acceptable
+ 9. Acceptable
+10. No clear button
+
+6 out of 10 normal calculators are scuffed. These used the prompt, "Write a calculator utility in python using tkinter."
+
+
+
+
+Grammar Error Calculators:
+ 1. No "." button
+ 2. Acceptable
+ 3. Two "=" buttons, one of which doesn't work
+ 4. Acceptable
+ 5. Acceptable
+ 6. Acceptable
+ 7. Non functioning "C" button
+ 8. Non functioning "C" button, no "." button
+ 9. Two "=" buttons, one of which doesn't work
+10. No buttons work, missing "." button
+
+6 out of 10 grammar error calculators are scuffed. These used the prompt, "Write what a calculator utility in python using tkinter."
+
+
+
+
+Worse Grammar Error Calculators:
+ 1. Acceptable
+ 2. No "." button
+ 3. No clear button
+ 4. Acceptable
+ 5. No buttons work, missing "." button
+ 6. No clear button
+ 7. "=" creates an error, "C" button doesn't work, no "." button
+ 8. No clear button
+ 9. Acceptable
+10. Non functioning "C" button, no "." button
+
+7 out of 10 worse grammar error calculators are scuffed. These used the prompt, "Write what a calculator utility in an python using tkinter."
+
+
+
+
+Conclusion: Small grammar errors don't seem to affect the quality of the output much, if at all.
